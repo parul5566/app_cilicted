@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777432730023",
+    "project_id": "appcilicted",
+    "storage_bucket": "appcilicted.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777432730023:android:5adb48dbf99b23c1b24e82",
+        "android_client_info": {
+          "package_name": "com.example.app_cilicted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777432730023-77fu5s0h1hcag6m70jd01m2os86ms4h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEtFcq7OiDrEXRFx3jpaEFoP23t6nFxJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777432730023-77fu5s0h1hcag6m70jd01m2os86ms4h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
